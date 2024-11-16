@@ -58,6 +58,6 @@
 
 
 ### 📞 Contact
-- 📬 이메일: [gb3187@naver.com](mailto:gb3187@naver.com)
-- 📝 블로그: [https://velog.io/@keyboy/posts](https://velog.io/@keyboy/posts)
+- 📬 Email: [gb3187@naver.com](mailto:gb3187@naver.com)
+- 📝 Blog: [https://velog.io/@keyboy/posts](https://velog.io/@keyboy/posts)
 
